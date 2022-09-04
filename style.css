@@ -1,0 +1,23 @@
+/*.member {*/
+/*   background: silver;*/
+/*    text-align: center;*/
+/*}*/
+/*.flex{*/
+/*    display: flex;*/
+/*    justify-content: space-around;*/
+/*}*/
+/*.flex p{*/
+/*    padding: 10px;*/
+/*    background: teal;*/
+/*    color: white;*/
+/*    letter-spacing: 2px;*/
+/*    transition: transform 1s;*/
+/*}*/
+/*.flex p:hover{*/
+/*    transform: scale(1.1);*/
+/*    cursor: pointer;*/
+/*}*/
+
+/*.hidden {*/
+/*    display: none;*/
+/*}*/
