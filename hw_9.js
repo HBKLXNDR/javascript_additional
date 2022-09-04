@@ -359,4 +359,5 @@ button.addEventListener("click", function () {
         }
     }
     generator(row, col, elem)
+    button.disabled = true
 })
